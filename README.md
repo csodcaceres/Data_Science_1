@@ -22,3 +22,5 @@
 
 6 - Podemos recopilar el operador y potencia con input y convertir la salida a números enteros con la función int(). Luego, podemos mostrar el resultado de la exponenciación entre estos dos valores con **.
 
+7 - Podemos recopilar el numerador y denominador con input y convertir la salida a números enteros con la función int(). Luego, podemos mostrar el resultado de la división entera entre los dos valores con //.
+
