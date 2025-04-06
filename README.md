@@ -66,3 +66,5 @@
 
 6 - Después de recolectar los 3 números, realizamos comparaciones siguiendo una lógica similar a la pregunta anterior. Utilizamos el operador lógico and para determinar cuál es el número más grande entre los 3 datos de productos, luego verificamos entre los dos más pequeños y finalmente utilizamos print para mostrar los números en orden descendente mediante varias declaraciones condicionales anidadas.
 
+7 - Escribe un programa que pregunte en qué turno estudia la persona usuaria ("mañana", "tarde" o "noche") y muestre el mensaje "¡Buenos Días!", "¡Buenas Tardes!", "¡Buenas Noches!" o "Valor Inválido!", según el caso.
+
