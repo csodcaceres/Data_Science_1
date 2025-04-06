@@ -62,3 +62,5 @@
 
 4 - Comparamos cada valor con los otros dos valores correspondientes a los otros dos años y determinamos el valor más alto y el más bajo. Lo hacemos asignando inicialmente el valor de precio_ano1 como el valor máximo y, si encontramos un valor mayor, actualizamos la variable mayor. Utilizamos una lógica similar para encontrar el valor mínimo.
 
+5 - Escribe un programa que pregunte sobre el precio de tres productos e indique cuál es el producto más barato para comprar.
+
