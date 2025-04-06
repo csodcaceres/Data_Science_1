@@ -72,3 +72,5 @@
 
 9 - Podemos usar el operador de módulo % para determinar si un número es entero o decimal. Si el operador de módulo % devuelve cero en la división entera de un número entre 1, entonces es un número entero. De lo contrario, es un número decimal.
 
+10 - Un programa debe ser escrito para leer dos números y luego preguntar a la persona usuaria qué operación desea realizar. El resultado de la operación debe incluir información sobre el número, si es par o impar, positivo o negativo, e entero o decimal.
+
