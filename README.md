@@ -83,3 +83,15 @@ El valor del descuento será el producto del precio por litro, la cantidad de li
 
 El valor a pagar por un cliente será el resultado de la multiplicación del precio por litro por la cantidad de litros menos el valor del descuento resultante del cálculo.
 
+13 - En una empresa de venta de bienes raíces, debes crear un código que analice los datos de ventas anuales para ayudar a la dirección en la toma de decisiones. El código debe recopilar los datos de cantidad de ventas durante los años 2022 y 2023 y calcular la variación porcentual. A partir del valor de la variación, se deben proporcionar las siguientes sugerencias:
+
+Para una variación superior al 20%: bonificación para el equipo de ventas.
+
+Para una variación entre el 2% y el 20%: pequeña bonificación para el equipo de ventas.
+
+Para una variación entre el 2% y el -10%: planificación de políticas de incentivo a las ventas.
+
+Para bonificaciones inferiores al -10%: recorte de gastos.
+
+Si necesitas ayuda, las opciones de solución para las actividades estarán disponibles en la sección "Opinión del instructor".
+
