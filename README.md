@@ -26,3 +26,5 @@
 
 8 - Podemos recopilar el numerador y denominador con input y convertir la salida a números enteros con la función int(). Luego, podemos mostrar el resultado del resto de la división entre los dos valores con %.
 
+9 - Podemos recopilar las tres notas con input y convertir la salida a números con decimales utilizando la función float(). Luego, podemos mostrar el resultado del promedio entre las tres variables sumando las notas con + y dividiendo la suma entre 3.
+
