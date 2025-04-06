@@ -24,3 +24,5 @@
 
 7 - Podemos recopilar el numerador y denominador con input y convertir la salida a números enteros con la función int(). Luego, podemos mostrar el resultado de la división entera entre los dos valores con //.
 
+8 - Podemos recopilar el numerador y denominador con input y convertir la salida a números enteros con la función int(). Luego, podemos mostrar el resultado del resto de la división entre los dos valores con %.
+
