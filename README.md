@@ -74,3 +74,5 @@
 
 10 - Un programa debe ser escrito para leer dos números y luego preguntar a la persona usuaria qué operación desea realizar. El resultado de la operación debe incluir información sobre el número, si es par o impar, positivo o negativo, e entero o decimal.
 
+11 - Después de recolectar los valores de los 3 lados de un triángulo, debemos verificar si realmente pueden formar un triángulo siguiendo el consejo "Tres lados forman un triángulo cuando la suma de cualquier par de lados es mayor que el tercer lado". Esta verificación se puede realizar con el operador "and". Luego, podemos verificar si todos los lados son iguales, lo que forma un triángulo equilátero, o si todos los lados son diferentes, lo que forma un triángulo escaleno. Estas verificaciones se pueden realizar con el operador "and" y los operadores "== y "! =". Finalmente, utilizamos "else" para el caso de un triángulo isósceles.
+
