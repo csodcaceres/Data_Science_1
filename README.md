@@ -76,3 +76,10 @@
 
 11 - Después de recolectar los valores de los 3 lados de un triángulo, debemos verificar si realmente pueden formar un triángulo siguiendo el consejo "Tres lados forman un triángulo cuando la suma de cualquier par de lados es mayor que el tercer lado". Esta verificación se puede realizar con el operador "and". Luego, podemos verificar si todos los lados son iguales, lo que forma un triángulo equilátero, o si todos los lados son diferentes, lo que forma un triángulo escaleno. Estas verificaciones se pueden realizar con el operador "and" y los operadores "== y "! =". Finalmente, utilizamos "else" para el caso de un triángulo isósceles.
 
+12 - Un establecimiento está vendiendo combustibles con descuentos variables. Para el etanol, si la cantidad comprada es de hasta 15 litros, el descuento será del 2% por litro. En caso contrario, será del 4% por litro. Para el diésel, si la cantidad comprada es de hasta 15 litros, el descuento será del 3% por litro. En caso contrario, será del 5% por litro. El precio por litro de diésel es de R
+2,00 y el precio por litro d etanol es de R 1.70. Escribe un programa que lea la cantidad de litros vendidos y el tipo de combustible (E para etanol y D para diésel) y calcule el valor a pagar por el cliente. Ten en cuenta algunas sugerencias:
+
+El valor del descuento será el producto del precio por litro, la cantidad de litros y el valor del descuento.
+
+El valor a pagar por un cliente será el resultado de la multiplicación del precio por litro por la cantidad de litros menos el valor del descuento resultante del cálculo.
+
