@@ -60,3 +60,5 @@
 
 3 - Escribe un programa que determine si una letra proporcionada por la persona usuaria es una vocal o una consonante.
 
+4 - Comparamos cada valor con los otros dos valores correspondientes a los otros dos años y determinamos el valor más alto y el más bajo. Lo hacemos asignando inicialmente el valor de precio_ano1 como el valor máximo y, si encontramos un valor mayor, actualizamos la variable mayor. Utilizamos una lógica similar para encontrar el valor mínimo.
+
