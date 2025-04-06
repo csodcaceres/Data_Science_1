@@ -46,3 +46,5 @@
 
 7 - Recopilamos una frase utilizando la función input, incluso si no estamos seguros de si tendrá espacios al principio y al final de la frase. Luego, eliminamos estos espacios utilizando el método strip y también usamos el método lower junto con strip. El resultado se puede mostrar en un comando print.
 
+8 - Recopilamos una frase utilizando la función input. Para asegurarnos de que los caracteres no estén en mayúsculas, convertimos toda la frase a minúsculas utilizando el método lower y luego aplicamos el método replace, definiendo el valor a reemplazar como 'e' y el nuevo valor como 'f'. El resultado se muestra en un comando print.
+
