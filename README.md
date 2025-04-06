@@ -36,3 +36,7 @@
 
 2 - Recopilamos una frase utilizando la función input y luego imprimimos el resultado con el comando print.
 
+3 - Recopilamos una frase utilizando la función input y luego mostramos su valor en mayúsculas utilizando el método upper. Podemos mostrar la salida de esto en un comando print.
+
+4 - Recopilamos una frase utilizando la función input y luego mostramos su valor en minúsculas utilizando el método lower. Podemos mostrar la salida de esto en un comando print.
+
