@@ -123,3 +123,19 @@ También se contaron los votos nulos (representados por el número 5) y los voto
 
 Al final de la votación, el programa debe mostrar el número total de votos para cada candidato, los votos nulos y los votos en blanco. Además, debe calcular y mostrar el porcentaje de votos nulos con respecto al total de votos y el porcentaje de votos en blanco con respecto al total de votos.
 
+# Estructuras de datos
+
+Vamos practicar el uso de estructuras de datos, como listas y diccionarios, a través de algunas actividades. Ahora que estamos avanzando en el contenido, podemos hacer los desafíos más interesantes. ¡Para ello, trabajaremos con proyectos de código!
+
+Primero, resolveremos algunos problemas para calentar y prepararnos para los proyectos.
+
+Entrenando la programación
+
+1 - Crea un programa que tenga la siguiente lista con los gastos de una empresa de papel [2172.54, 3701.35, 3518.09, 3456.61, 3249.38, 2840.82, 3891.45, 3075.26, 2317.64, 3219.08]. Con estos valores, crea un programa que calcule el promedio de gastos. Sugerencia: usa las funciones integradas sum() y len().
+
+2 - Con los mismos datos de la pregunta anterior, determina cuántas compras se realizaron por encima de 3000 reales y calcula el porcentaje con respecto al total de compras.
+
+3 - Crea un código que recoja en una lista 5 números enteros aleatorios e imprima la lista. Ejemplo: [1, 4, 7, 2, 4].
+
+4 - Recoge nuevamente 5 números enteros e imprime la lista en orden inverso al enviado. Dado que el objetivo es imprimir la lista de números enteros en orden inverso al ingresado, podemos utilizar la técnica de partición, en la que la lista se recorre desde el último elemento (usando el índice -1) hasta el primero. De esta manera, la lista se imprime en orden inverso al original, de modo que el último elemento es el primero en mostrarse, seguido por el penúltimo elemento y así sucesivamente.
+
