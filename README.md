@@ -55,3 +55,6 @@
 # Estructuras condicionales
 
 1 - Escribe un programa que pida a la persona usuaria que proporcione dos números y muestre el número más grande.
+
+2 - Escribe un programa que solicite el porcentaje de crecimiento de producción de una empresa e informe si hubo un crecimiento (porcentaje positivo) o una disminución (porcentaje negativo).
+
