@@ -58,3 +58,5 @@
 
 2 - Escribe un programa que solicite el porcentaje de crecimiento de producción de una empresa e informe si hubo un crecimiento (porcentaje positivo) o una disminución (porcentaje negativo).
 
+3 - Escribe un programa que determine si una letra proporcionada por la persona usuaria es una vocal o una consonante.
+
