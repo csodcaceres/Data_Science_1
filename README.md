@@ -28,3 +28,5 @@
 
 9 - Podemos recopilar las tres notas con input y convertir la salida a números con decimales utilizando la función float(). Luego, podemos mostrar el resultado del promedio entre las tres variables sumando las notas con + y dividiendo la suma entre 3.
 
+10 - Calculamos la media ponderada multiplicando los pesos por sus respectivos valores y sumando el resultado de cada multiplicación. El valor de estas sumas se divide entre la suma total de los pesos. Con el comando print, imprimimos el resultado del cálculo de la media.
+
