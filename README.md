@@ -68,3 +68,5 @@
 
 7 - Escribe un programa que pregunte en qué turno estudia la persona usuaria ("mañana", "tarde" o "noche") y muestre el mensaje "¡Buenos Días!", "¡Buenas Tardes!", "¡Buenas Noches!" o "Valor Inválido!", según el caso.
 
+8 - Podemos usar el operador de módulo % para determinar si un número es par o impar. Si la división entera de un número entre 2 da como resultado 0, entonces es par. Si no, es impar. Esto se debe a que todos los números pares son divisibles por 2, por lo que no tienen un residuo en la división.
+
