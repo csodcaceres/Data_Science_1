@@ -3,4 +3,4 @@
 # usando la formatación f-string
 
 nombre = input('Ingrese su nombre: ')
-print(f'¡Hola, {nombre}')
+print(f'¡Hola, {nombre}!')
