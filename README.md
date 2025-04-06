@@ -70,3 +70,5 @@
 
 8 - Podemos usar el operador de módulo % para determinar si un número es par o impar. Si la división entera de un número entre 2 da como resultado 0, entonces es par. Si no, es impar. Esto se debe a que todos los números pares son divisibles por 2, por lo que no tienen un residuo en la división.
 
+9 - Podemos usar el operador de módulo % para determinar si un número es entero o decimal. Si el operador de módulo % devuelve cero en la división entera de un número entre 1, entonces es un número entero. De lo contrario, es un número decimal.
+
