@@ -3,4 +3,6 @@
 # método strip y también usamos el método lower junto con strip. 
 # El resultado se puede mostrar en un comando print.
 
+frase = input('Ingrese una frase: ')
 
+print(frase.strip().lower())
